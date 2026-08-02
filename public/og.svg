@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">産業分類引き</title>
+  <desc id="desc">農地、工場、店舗、通信塔、医療施設から細分類コードへつながる産業の街</desc>
+  <rect width="1200" height="630" fill="#f4f0e6"/>
+  <rect x="46" y="44" width="1108" height="542" rx="10" fill="#d9e3dd" stroke="#17322d" stroke-width="3"/>
+  <rect x="67" y="65" width="1066" height="500" fill="none" stroke="#17322d" stroke-opacity=".18" stroke-dasharray="8 10"/>
+  <text x="91" y="122" fill="#d56f3f" font-family="monospace" font-size="17" font-weight="700" letter-spacing="4">JAPAN STANDARD INDUSTRIAL CLASSIFICATION</text>
+  <text x="90" y="181" fill="#17322d" font-family="serif" font-size="48" font-weight="700">仕事をたどる。分類コードが決まる。</text>
+  <text x="92" y="218" fill="#62726d" font-family="sans-serif" font-size="20">日本標準産業分類 2,128コードを、事業内容から。</text>
+
+  <g transform="translate(90 260)" stroke="#17322d" stroke-width="4">
+    <path d="M0 134h132v82H0z" fill="#71884f"/>
+    <path d="M0 134h132v19H0z" fill="#e5b84d"/>
+    <path d="M20 174h92M20 194h92" fill="none" stroke="#fffdf7" stroke-width="5"/>
+    <text x="50" y="130" fill="#17322d" stroke="none" font-family="monospace" font-size="27" font-weight="700">A</text>
+
+    <path d="M166 101l45-28v28l47-28v28l45-28v143H166z" fill="#d56f3f"/>
+    <rect x="260" y="55" width="26" height="94" fill="#17322d"/>
+    <rect x="190" y="141" width="30" height="30" fill="#fffdf7"/>
+    <rect x="239" y="141" width="30" height="30" fill="#fffdf7"/>
+    <text x="225" y="202" fill="#fffdf7" stroke="none" font-family="monospace" font-size="31" font-weight="700">E</text>
+
+    <rect x="338" y="116" width="142" height="100" fill="#e5b84d"/>
+    <rect x="338" y="116" width="142" height="22" fill="#a94b43"/>
+    <rect x="365" y="157" width="38" height="59" fill="#fffdf7"/>
+    <rect x="420" y="157" width="35" height="31" fill="#fffdf7"/>
+    <text x="393" y="106" fill="#17322d" stroke="none" font-family="monospace" font-size="27" font-weight="700">I</text>
+
+    <path d="M519 77h28l20 139h-68z" fill="#46758a"/>
+    <path d="M486 106q47-49 94 0M474 84q59-68 118 0" fill="none" stroke="#46758a" stroke-width="7"/>
+    <text x="520" y="202" fill="#fffdf7" stroke="none" font-family="monospace" font-size="27" font-weight="700">G</text>
+
+    <rect x="622" y="104" width="136" height="112" fill="#fffdf7"/>
+    <path d="M678 126v60M648 156h60" fill="none" stroke="#a94b43" stroke-width="14"/>
+    <text x="718" y="96" fill="#a94b43" stroke="none" font-family="monospace" font-size="27" font-weight="700">P</text>
+  </g>
+
+  <g transform="translate(826 279)">
+    <rect width="280" height="222" fill="#fffdf7" stroke="#17322d" stroke-width="4"/>
+    <text x="23" y="34" fill="#62726d" font-family="sans-serif" font-size="14">分類の道筋</text>
+    <g font-family="monospace" font-weight="700">
+      <rect x="22" y="53" width="52" height="48" fill="#e7dfcf"/>
+      <text x="42" y="84" fill="#17322d" font-size="22">G</text>
+      <text x="82" y="84" fill="#62726d" font-size="22">›</text>
+      <rect x="103" y="53" width="58" height="48" fill="#e7dfcf"/>
+      <text x="118" y="84" fill="#17322d" font-size="22">39</text>
+      <text x="169" y="84" fill="#62726d" font-size="22">›</text>
+      <rect x="190" y="53" width="68" height="48" fill="#285f50"/>
+      <text x="205" y="84" fill="#fffdf7" font-size="22">391</text>
+      <rect x="22" y="119" width="236" height="76" fill="#17322d"/>
+      <text x="39" y="151" fill="#d9e3dd" font-size="14">細分類</text>
+      <text x="39" y="181" fill="#fffdf7" font-size="30">3911</text>
+      <text x="133" y="180" fill="#fffdf7" font-family="sans-serif" font-size="17">受託開発</text>
+    </g>
+  </g>
+
+  <rect x="90" y="522" width="666" height="7" fill="#17322d"/>
+  <rect x="90" y="522" width="244" height="7" fill="#e5b84d"/>
+  <text x="92" y="555" fill="#17322d" font-family="sans-serif" font-size="20" font-weight="700">産業分類引き</text>
+  <text x="230" y="555" fill="#62726d" font-family="monospace" font-size="16">sangyo-code.yhay81.com</text>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sangyo-code",
+  "main": "src/worker.tsx",
+  "compatibility_date": "2026-07-29",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    {
+      "pattern": "sangyo-code.yhay81.com",
+      "custom_domain": true,
+    },
+  ],
+  "triggers": { "crons": ["21 21 * * *"] },
+  "observability": { "enabled": true },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "sangyo-code",
+      "database_id": "3af0f9d7-5d0c-4356-88d2-851bc3086d10",
+      "migrations_dir": "migrations",
+    },
+  ],
+  "assets": { "directory": "./public", "binding": "ASSETS" },
+}

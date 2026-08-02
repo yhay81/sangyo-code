@@ -1,0 +1,16 @@
+{
+  "name": "産業分類引き",
+  "short_name": "産業分類引き",
+  "description": "事業内容から日本標準産業分類コードを探す",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e6",
+  "theme_color": "#17322d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
